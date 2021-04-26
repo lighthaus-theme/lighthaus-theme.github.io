@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus-theme.github.io/0e1a1d258ec90a953e64c31154132423cb00960c/images/Website.svg" width="150"><p>
+<p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/lighthaus-theme.github.io/0e1a1d258ec90a953e64c31154132423cb00960c/images/Website.svg" width="300"><p>
 
 <h2 align="center">Lighthaus Website</h2>
 
